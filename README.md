@@ -9,13 +9,13 @@ Code from https://github.com/hkproj/pytorch-stable-diffusion
 ## Tested fine-tuned models:
 Just download the ckpt file from any fine-tuned SD (up to v1.5).
 
-InkPunk Diffusion: https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
-Illustration Diffusion (Hollie Mengert): https://huggingface.co/ogkalu/Illustration-Diffusion/tree/main
+1. InkPunk Diffusion: https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
+2. Illustration Diffusion (Hollie Mengert): https://huggingface.co/ogkalu/Illustration-Diffusion/tree/main
 
 ## Special thanks
 Special thanks to the following repositories:
 
-https://github.com/CompVis/stable-diffusion/
-https://github.com/divamgupta/stable-diffusion-tensorflow
-https://github.com/kjsman/stable-diffusion-pytorch
-https://github.com/huggingface/diffusers/
+1. https://github.com/CompVis/stable-diffusion/
+2. https://github.com/divamgupta/stable-diffusion-tensorflow
+3. https://github.com/kjsman/stable-diffusion-pytorch
+4. https://github.com/huggingface/diffusers/
